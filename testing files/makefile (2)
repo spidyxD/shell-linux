@@ -1,0 +1,6 @@
+all: spySam
+
+spySam: spySam.o
+
+spySam.o: spySam.c
+	gcc -c spySam.c

@@ -1,0 +1,22 @@
+//Proyecto #1
+/* Universidad Nacional de Costa Rica
+ * Sistemas Operativos
+ * Created by Roger Amador Villagra
+ * Código fuente
+ * 2017
+ * 
+ * */
+ 
+ 
+ Comandos:
+ 
+ ls
+ ps
+ date
+ who
+ call
+ less
+ catejemplo.c
+ top
+ 
+ Para compilar ejecutar el makefile en la direccion de la carpeta donde estan guardados los archivos
